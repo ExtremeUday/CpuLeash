@@ -45,7 +45,7 @@ CpuLeash 1234 5678 50
 
 1. Clone the repo
 2. Open `CpuLeash.sln` in Visual Studio
-3. Build → Release
+3. Build -> Release
 
 ---
 
