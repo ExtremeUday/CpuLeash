@@ -10,7 +10,7 @@
 
 ## What it does
 
-CpuLeash attaches one or more running processes to a Windows Job Object and enforces a hard CPU rate cap — preventing them from consuming more than a specified percentage of CPU time.
+CpuLeash attaches one or more running processes to a Windows Job Object and enforces a hard CPU rate cap preventing them from consuming more than a specified percentage of CPU time.
 
 ---
 
